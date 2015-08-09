@@ -1,3 +1,18 @@
+## Objective
+This is a repository for the Coursera's Exploratory Data Analysis course and contains 4 R scripts to generate 4 graphs/plots represented by the 4 png files.
+ 
+## Running this script
+To run this script you need t to the following:
+* Download the scripts (plot1.R, plot2.R, plot3.R, plot4.R) to ./ExData_Plotting1 directory;
+
+* Download the data from:  https://d396qusza40orc.cloudfront.net/exdata%2Fdata%2Fhousehold_power_consumption.zip
+
+* Unzip and extract the data into ./Data subdirectory;
+
+* Run the the respective scripts to generate the graphs
+
+* Refer Introduction section below for details on data and objective
+
 ## Introduction
 
 This assignment uses data from
